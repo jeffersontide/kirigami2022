@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+build_cmake/*
+
+*.sh
+*.vtp
+*.log
+*.dat
+
+# Ignore Mac specific files
+*.DS_Store
+
+# Ignore emacs files
+*~
